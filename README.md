@@ -9,4 +9,4 @@
 5) Enjoy cheating!
 ```
 
-** ![Screenshot](screenshot.png) **
+![Screenshot](screenshot.PNG)
