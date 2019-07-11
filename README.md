@@ -8,3 +8,6 @@
 4) Paste script and press [Enter]
 5) Enjoy cheating!
 ```
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
